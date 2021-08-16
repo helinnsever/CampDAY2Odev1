@@ -42,19 +42,5 @@ public class Main {
     jobServicesFAQ.remove(fAQ2);
           
           
-//		course1.setCourseName("Yazilim Gelistirici yetistirme kampi (JAVA+REACT)");
-//        course1.setCourseCategory("Yazilim");
-//        course1.setCourseInstructor("Engin Demirog");
-//      
-//      
-//        
-//        course1.setCourseName("Yazilim Gelistirici yetistirme kampi (C#+ANGULAR)");
-//        course1.setCourseCategory("Yazilim");
-//        course1.setCourseInstructor("Engin Demirog");
-//        
-//        course3.setCourseName("Programlamaya Giris icin Temel Kurs");
-//        course3.setCourseCategory("Yazilim");
-//        course1.setCourseInstructor("Engin Demirog");
 	}
-
 }
